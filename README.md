@@ -1,5 +1,11 @@
-### Hi there 👋
+### 👋
+Datasets:
+- [scenery_watermarks](https://github.com/qwertyforce/scenery_watermarks)
 
+Articles:  
+- [blog.qwertyforce.dev](https://blog.qwertyforce.dev)
+
+Notable projects are pinned below
 <!--
 **qwertyforce/qwertyforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
