@@ -5,6 +5,8 @@ Datasets:
 Articles:  
 - [blog.qwertyforce.dev](https://blog.qwertyforce.dev)
 
+toy implementations of different ml algorithms - https://github.com/qwertyforce/ml  
+<br>
 Notable projects are pinned below
 <!--
 **qwertyforce/qwertyforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
