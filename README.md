@@ -1,4 +1,7 @@
 ### 👋
+Papers:
+-  [Detecting AutoEncoder is Enough to Catch LDM Generated Images](https://github.com/qwertyforce/Detecting-AutoEncoder-is-Enough-to-Catch-LDM-Generated-Images)
+  
 Datasets:
 - [scenery_watermarks](https://github.com/qwertyforce/scenery_watermarks)
 
