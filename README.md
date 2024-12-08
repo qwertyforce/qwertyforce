@@ -1,5 +1,5 @@
 ### 👋
-Papers:
+Code for Papers:
 -  [Detecting AutoEncoder is Enough to Catch LDM Generated Images](https://github.com/qwertyforce/Detecting-AutoEncoder-is-Enough-to-Catch-LDM-Generated-Images)
   
 Datasets:
